@@ -1,5 +1,5 @@
 # Tutorial 11, Problem 1
-# Purpose: Marbles Game - Implementation Tutorial 11
+# Purpose: Marbles Game_tkinter
 # Date Created: <2025/11/19>
 # Date Modified: <d2025/11/19>
 
