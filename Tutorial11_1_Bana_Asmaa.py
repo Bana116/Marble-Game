@@ -1,8 +1,3 @@
-# University of Toronto
-# Faculty of Information
-# Bachelor of Information Program
-# Supervisor: Dr. Maher Elshakankiri
-#
 # Tutorial 11, Problem 1
 # Purpose: Marbles Game - Implementation Tutorial 11
 # Date Created: <2025/11/19>
