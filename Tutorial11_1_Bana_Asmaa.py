@@ -1,7 +1,6 @@
-# Tutorial 11, Problem 1
-# Purpose: Marbles Game_tkinter
+# Name: Marbles Game_tkinter
 # Date Created: <2025/11/19>
-# Date Modified: <d2025/11/19>
+# Date Modified: <2025/11/19>
 
 import tkinter as tk 
 from tkinter import messagebox 
