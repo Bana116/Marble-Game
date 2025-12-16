@@ -1,10 +1,6 @@
 # University of Toronto
 # Faculty of Information
 # Bachelor of Information Program
-# INF 452H - Design Studio V: Coding
-#
-# Student Name: <Asmaa Bana>
-# Student Number: <1012819611>
 # Supervisor: Dr. Maher Elshakankiri
 #
 # Tutorial 11, Problem 1
